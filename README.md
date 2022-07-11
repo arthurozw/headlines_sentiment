@@ -1,4 +1,4 @@
-# Financial Markets headline Sentiment Gauge
+# Financial Markets Headline Sentiment Gauge
 I want to be able to gauge the sentiment of Financial news headlines captured and saved 12-hourly using Python.
 The roadmap initially looks like this:
 
