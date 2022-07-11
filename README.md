@@ -1,6 +1,3 @@
 # testing123
-Just learning how to use Github.
-I think I will write python code that converts height in CM to FT since I am a Basketball Junkie.
-Here Goes
-Import pandas as pd
-
+I want to be able to gauge the sentiment of Financial news headlines captured and saved 12-hourly
+I will be working from Jupyter Lab initially.
