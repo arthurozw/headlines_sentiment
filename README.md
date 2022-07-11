@@ -1,4 +1,4 @@
-# testing123
+# Financial Markets headline Sentiment
 I want to be able to gauge the sentiment of Financial news headlines captured and saved 12-hourly using Python.
 The roadmap initially looks like this:
 
